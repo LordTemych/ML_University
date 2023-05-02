@@ -1,4 +1,4 @@
-# TMO_University
+# ML_University
 Работы по курсу "Технологии машинного обучения"  
 ### Лаборатные работы
 - [Лабораторная работа №1](https://github.com/LordTemych/ML_University/tree/main/Lab1)  
