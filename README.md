@@ -10,5 +10,5 @@
 ### Рубежные контроли
 - [Рубежный контроль №1](https://github.com/LordTemych/ML_University/tree/main/RK/RK1)  
 - [Рубежный контроль №2](https://github.com/LordTemych/ML_University/tree/main/RK/RK2) 
-### НИРСв
+### НИРС
 
