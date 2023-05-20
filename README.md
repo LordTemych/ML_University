@@ -1,5 +1,5 @@
 # ML_University
-Работы по курсу "Технологии машинного обучения"  
+Работы по курсу "Технологии машинного обучения"
 ### Лаборатные работы
 - [Лабораторная работа №1](https://github.com/LordTemych/ML_University/tree/main/Labs/lab1)  
 - [Лабораторная работа №2](https://github.com/LordTemych/ML_University/tree/main/Labs/lab2)  
@@ -11,4 +11,4 @@
 - [Рубежный контроль №1](https://github.com/LordTemych/ML_University/tree/main/RK/RK1)  
 - [Рубежный контроль №2](https://github.com/LordTemych/ML_University/tree/main/RK/RK2) 
 ### НИРС
-
+- [Научно-исследовательская работа студента]
