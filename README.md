@@ -1,7 +1,9 @@
 # ML_University
 Работы по курсу "Технологии машинного обучения"
 ### Лаборатные работы
-- [Лабораторная работа №1](https://github.com/LordTemych/ML_University/tree/main/Labs/lab1)  
+| Работы | Задание |
+| --- | --- |
+| [Лабораторная работа №1](https://github.com/LordTemych/ML_University/tree/main/Labs/lab1) | Задание 1 |
 - [Лабораторная работа №2](https://github.com/LordTemych/ML_University/tree/main/Labs/lab2)  
 - [Лабораторная работа №3](https://github.com/LordTemych/ML_University/tree/main/Labs/lab3)  
 - [Лабораторная работа №4](https://github.com/LordTemych/ML_University/tree/main/Labs/lab4)  
